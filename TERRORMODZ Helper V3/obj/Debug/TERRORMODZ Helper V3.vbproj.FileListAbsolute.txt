@@ -1,0 +1,17 @@
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ_Helper_V3.Form1.resources
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ_Helper_V3.Form2.resources
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ_Helper_V3.Resources.resources
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper V3.vbproj.GenerateResource.Cache
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.exe.config
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.exe.manifest
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.application
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.exe
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.pdb
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\bin\Debug\TERRORMODZ Helper VIP.xml
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.TrustInfo.xml
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.exe.manifest
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.application
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.exe
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.xml
+C:\Users\TERRORMODZ\documents\visual studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper VIP.pdb
+C:\Users\TERRORMODZ\Documents\Visual Studio 2015\Projects\TERRORMODZ Helper V3\TERRORMODZ Helper V3\obj\Debug\TERRORMODZ Helper V3.vbprojResolveAssemblyReference.cache
